@@ -1,0 +1,230 @@
+{
+  "source": "https://site-achei.vercel.app/",
+  "captured_at": "2026-09-29T14:14:04.075946+00:00",
+  "files": {
+    "index.html": {
+      "url": "https://site-achei.vercel.app/",
+      "sha256": "b4ab5cc139b11425bc42b034848c30856c18af9bf99891212b6c220945c53356",
+      "bytes": 104470
+    },
+    "assets/index-BPi5RWmX.js": {
+      "url": "https://site-achei.vercel.app/assets/index-BPi5RWmX.js",
+      "sha256": "2b922ce216118acc44f1206c85d457ab1c8036205b4fddcd577f0ec73c3b0b10",
+      "bytes": 168570,
+      "content_type": "application/javascript; charset=utf-8"
+    },
+    "assets/index-Dwjvu7MM.css": {
+      "url": "https://site-achei.vercel.app/assets/index-Dwjvu7MM.css",
+      "sha256": "0f2af64c5238f15373c6b74bfde7c2181f606469c8b84ddc721c06a1d0c6452b",
+      "bytes": 31875,
+      "content_type": "text/css; charset=utf-8"
+    },
+    "favicon.svg": {
+      "url": "https://site-achei.vercel.app/favicon.svg",
+      "sha256": "eab0cc7f6e8afcf7fccb76140728523c070861d7d6e81ba149bb468432d00865",
+      "bytes": 396,
+      "content_type": "image/svg+xml"
+    },
+    "img/achei-tv.jpg": {
+      "url": "https://site-achei.vercel.app/img/achei-tv.jpg",
+      "sha256": "a2ab0ac1a37445c86f41eb7bd35dae1ce95d50552ba7c8962cd857c5f7c0f7a3",
+      "bytes": 16329,
+      "content_type": "image/jpeg"
+    },
+    "img/noticia-cinema.jpg": {
+      "url": "https://site-achei.vercel.app/img/noticia-cinema.jpg",
+      "sha256": "2e1a26fa707d310f11b8014c26100619a5ffffd7e2f2eb469df997a81e0cf8d9",
+      "bytes": 27215,
+      "content_type": "image/jpeg"
+    },
+    "img/noticia-tarifa.jpg": {
+      "url": "https://site-achei.vercel.app/img/noticia-tarifa.jpg",
+      "sha256": "60e54a881444044ac3f90345a01b0e694f290778786a7854fc6352c92d2122dd",
+      "bytes": 22009,
+      "content_type": "image/jpeg"
+    },
+    "img/noticia-trabalho.jpg": {
+      "url": "https://site-achei.vercel.app/img/noticia-trabalho.jpg",
+      "sha256": "e9ae89a855aeb14e7cc1ffa8a04dc6c8e3bb40532d3176b379920b22992f51a7",
+      "bytes": 26591,
+      "content_type": "image/jpeg"
+    },
+    "img/padaria.jpg": {
+      "url": "https://site-achei.vercel.app/img/padaria.jpg",
+      "sha256": "fd92bc7e831ddc66e05e600e14b0aecbdfdddffcbc60659856b5b8b2973f4df3",
+      "bytes": 35747,
+      "content_type": "image/jpeg"
+    },
+    "img/phone-hand.jpg": {
+      "url": "https://site-achei.vercel.app/img/phone-hand.jpg",
+      "sha256": "93085da63bfe209029a78a23213ea2d7d7ab23a6e5161a7f46ba2fdbaa938ac9",
+      "bytes": 26286,
+      "content_type": "image/jpeg"
+    },
+    "img/pizza.jpg": {
+      "url": "https://site-achei.vercel.app/img/pizza.jpg",
+      "sha256": "e18dfb0f81c514171de6629cdb9ee5a4b9ca43cef4bacff54674028911252ab0",
+      "bytes": 14455,
+      "content_type": "image/jpeg"
+    },
+    "img/posto.jpg": {
+      "url": "https://site-achei.vercel.app/img/posto.jpg",
+      "sha256": "877d23e8fd8bb0984d7d35f73ad64f9fe7318f3168e31726ccc391a9c3673934",
+      "bytes": 31302,
+      "content_type": "image/jpeg"
+    },
+    "img/studio-bella.jpg": {
+      "url": "https://site-achei.vercel.app/img/studio-bella.jpg",
+      "sha256": "471eeeacc24134bc36f8fd94578e6728b3f4cbe2849f29d1f70c04a1fb141319",
+      "bytes": 27017,
+      "content_type": "image/jpeg"
+    },
+    "img/video-studio.jpg": {
+      "url": "https://site-achei.vercel.app/img/video-studio.jpg",
+      "sha256": "15e6e592ea94dfaa6697b971a4116fa59993aae8643c31e066175fc7dc2ca97d",
+      "bytes": 41494,
+      "content_type": "image/jpeg"
+    },
+    "img/vs-fitness.jpg": {
+      "url": "https://site-achei.vercel.app/img/vs-fitness.jpg",
+      "sha256": "13bba628d6c916736af87adbfe568699fc334e874f68f9ec0ee5929e656437c8",
+      "bytes": 31589,
+      "content_type": "image/jpeg"
+    },
+    "assets/caveat-brush-latin-400-normal-2w-6t9gW.woff2": {
+      "url": "https://site-achei.vercel.app/assets/caveat-brush-latin-400-normal-2w-6t9gW.woff2",
+      "sha256": "1e1ef30f8b69c21206603097ad0ba68591539af68214f7cfb2fbd23991accd48",
+      "bytes": 67460,
+      "content_type": "font/woff2"
+    },
+    "assets/caveat-brush-latin-400-normal-B3pS0In6.woff": {
+      "url": "https://site-achei.vercel.app/assets/caveat-brush-latin-400-normal-B3pS0In6.woff",
+      "sha256": "2c57f92c541e3d7c8050ca99d8ce3f6ee2f64cbdfe72f304f6d7683f0db388ba",
+      "bytes": 63092,
+      "content_type": "font/woff"
+    },
+    "assets/montserrat-latin-800-normal-C3dfDxXV.woff": {
+      "url": "https://site-achei.vercel.app/assets/montserrat-latin-800-normal-C3dfDxXV.woff",
+      "sha256": "26f9e611260b72c43467d0a0ab4f56c5068ec431e41d9e3088fa74117ca086d8",
+      "bytes": 20660,
+      "content_type": "font/woff"
+    },
+    "assets/montserrat-latin-800-normal-axpkC1rd.woff2": {
+      "url": "https://site-achei.vercel.app/assets/montserrat-latin-800-normal-axpkC1rd.woff2",
+      "sha256": "ba826fb84c2e961578adf3a08b5778b87905d4443445d1d56d84f9f157d5ea4b",
+      "bytes": 19012,
+      "content_type": "font/woff2"
+    },
+    "assets/montserrat-latin-900-normal-B0TD3Qnu.woff2": {
+      "url": "https://site-achei.vercel.app/assets/montserrat-latin-900-normal-B0TD3Qnu.woff2",
+      "sha256": "5b6958520638bb8609f9eacb17c4d189563efeae96d5da49f7c2043988697205",
+      "bytes": 18020,
+      "content_type": "font/woff2"
+    },
+    "assets/montserrat-latin-900-normal-BDWDmVut.woff": {
+      "url": "https://site-achei.vercel.app/assets/montserrat-latin-900-normal-BDWDmVut.woff",
+      "sha256": "afe175493b5a436a5aaebab48bac33ff955072bea16606ab297d6d96b4c06d60",
+      "bytes": 19504,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-condensed-latin-400-normal-BICmKrXV.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-400-normal-BICmKrXV.woff2",
+      "sha256": "543c03fff71d1b39590af102e0852c2dbce46f4dbe4faaebafbef6edc82e78f5",
+      "bytes": 20820,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-condensed-latin-400-normal-D2e7XwB1.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-400-normal-D2e7XwB1.woff",
+      "sha256": "b6f0b0fbbdf88610c988177ffaeeb1694f06208515e6e64ddc706ab4836b6dc1",
+      "bytes": 19576,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-condensed-latin-500-normal-3p2daRJW.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-500-normal-3p2daRJW.woff2",
+      "sha256": "669bad4234158212f880cfa1241dc18866f748b5b52cdf4aaeb00c56cbd87352",
+      "bytes": 21040,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-condensed-latin-500-normal-Dc9bsamC.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-500-normal-Dc9bsamC.woff",
+      "sha256": "72dc40e4e919012cc501bde9a73784f2fecf23c654d620f174fd647d16fe339f",
+      "bytes": 19708,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-condensed-latin-600-normal-C6Ud4naT.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-600-normal-C6Ud4naT.woff2",
+      "sha256": "eaf782735cb4368413d40ca6b42531024e255f39198ce02bee0c5a6d002cdbd5",
+      "bytes": 21112,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-condensed-latin-600-normal-Dug56Mmk.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-600-normal-Dug56Mmk.woff",
+      "sha256": "fdce6a3f7c6fa78ed4ed315f59c9300125f4bff07153325f8d8ff512d59d0634",
+      "bytes": 19752,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-condensed-latin-700-normal-BOl6B_hI.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-700-normal-BOl6B_hI.woff",
+      "sha256": "9f8082378caff5777df6571e311e1f0789022fe1db256e166b15e80cdea11c8e",
+      "bytes": 19736,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-condensed-latin-700-normal-DRbp0YnP.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-700-normal-DRbp0YnP.woff2",
+      "sha256": "ab74f0c2d7ec37e44e017b9586675dd00c519591207dc3bbc8e003c5628dc9b7",
+      "bytes": 21128,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-condensed-latin-800-normal-3yalVcRJ.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-800-normal-3yalVcRJ.woff",
+      "sha256": "5343a4ca80ab37b985f27427fe461e6ee44cfab41cad3ff047310b79c6e93576",
+      "bytes": 19736,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-condensed-latin-800-normal-BKEDuQ6Q.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-condensed-latin-800-normal-BKEDuQ6Q.woff2",
+      "sha256": "82e7ca54449f9a9f4ee9f17a84d52f1517ef7fe2292b93c75e444757695b782d",
+      "bytes": 21172,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-latin-400-normal-BqEyEoaF.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-latin-400-normal-BqEyEoaF.woff2",
+      "sha256": "425c0713a8176f92273d378599c7eac57de7fafabd4bd0ed457b70eb8f80d371",
+      "bytes": 21884,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-latin-400-normal-D27F5sTu.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-latin-400-normal-D27F5sTu.woff",
+      "sha256": "6cff12116b83321230347db75d0721e70c27c6ec69eccca93ca4b1556eaaf67f",
+      "bytes": 21060,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-latin-500-normal-7RbcRiD8.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-latin-500-normal-7RbcRiD8.woff2",
+      "sha256": "5bcc3aa180e7f26f643cd5b2621cd7c2de193d0661d913a94afd3d4881a7a34b",
+      "bytes": 22200,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-latin-500-normal-fsTFPL3E.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-latin-500-normal-fsTFPL3E.woff",
+      "sha256": "8fa8e562e1a2997b442cd71ce0aa5c1814b119a80331d9cfdd0f4eb032e8a0bd",
+      "bytes": 21168,
+      "content_type": "font/woff"
+    },
+    "assets/roboto-latin-700-normal-BZpUvMxY.woff2": {
+      "url": "https://site-achei.vercel.app/assets/roboto-latin-700-normal-BZpUvMxY.woff2",
+      "sha256": "b9d66d1708156f765ada51939bc24ed259dafa69eb631b36e443680fe9e15879",
+      "bytes": 22240,
+      "content_type": "font/woff2"
+    },
+    "assets/roboto-latin-700-normal-YuyVweIx.woff": {
+      "url": "https://site-achei.vercel.app/assets/roboto-latin-700-normal-YuyVweIx.woff",
+      "sha256": "19e78b1c5f2c683c28800f84dd6d453ddb67987b0079060a4cbe50c7bdded148",
+      "bytes": 21216,
+      "content_type": "font/woff"
+    }
+  },
+  "external_asset_references": [],
+  "total_files": 37,
+  "total_bytes": 1146641
+}
