@@ -11,3 +11,7 @@ Nenhuma alteração de design, conteúdo, formatos, dimensões de imagens, tipog
 Site estático, sem etapa de compilação. A configuração de publicação está em `.openai/hosting.json`.
 
 O projeto anterior `achei-macapa` retornou `project_not_found` e não consta entre os Sites acessíveis. Por isso, esta cópia foi registrada como um projeto independente, preservando o checkout anterior.
+
+## Importação na Vercel
+
+O repositório inclui `vercel.json` com `dist` definido como diretório de saída e sem comando de build. O conteúdo público também está espelhado na raiz (`index.html`, `assets/`, `img/` e `favicon.svg`) para compatibilidade com importações que usam a configuração padrão da Vercel. Ao importar, mantenha o Framework Preset como `Other` e deixe o Build Command vazio.
